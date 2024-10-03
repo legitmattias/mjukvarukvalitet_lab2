@@ -1,7 +1,7 @@
 # Test Report
-Project: Mjukvarukvalitet L2
-Date: 2024-10-02
-Name: Mattias Ubbesen <mu222cu@student.lnu.se>
+- Project: Mjukvarukvalitet L2
+- Date: 2024-10-02
+- Name: Mattias Ubbesen <mu222cu@student.lnu.se>
 
 ## Test Results
 

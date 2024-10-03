@@ -1,8 +1,8 @@
 # Mina reflektioner
 
-Projekt: Mjukvarukvalitet Laboration 2
-Datum: 2024-10-02
-Name: Mattias Ubbesen <mu222cu@student.lnu.se>
+- Projekt: Mjukvarukvalitet Laboration 2
+- Datum: 2024-10-02
+- Namn: Mattias Ubbesen <mu222cu@student.lnu.se>
 
 ## Allmänna reflektioner kring arbetet och OOP
 
